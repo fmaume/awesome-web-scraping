@@ -22,3 +22,4 @@
   * [Agenty](https://www.agenty.com/)
   * [ScrapingBee](https://www.scrapingbee.com/) - A web scraping API that handles rotating proxies and headless browsers.
   * [SerpApi](https://serpapi.com/) - Real-time API to access structured search results of search engines.
+  * [PhantomBuster](https://phantombuster.com/) - Data extraction and web automation platform. Puppeteer based.
